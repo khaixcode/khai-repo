@@ -1,1 +1,1 @@
-this is the hompepage
+this is the homepage
